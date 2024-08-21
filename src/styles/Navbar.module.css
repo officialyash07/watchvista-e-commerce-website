@@ -1,0 +1,16 @@
+#navbar {
+    display: flex;
+    gap: 2rem;
+}
+
+#navbar a {
+    color: #f2f2f2f2;
+    text-decoration: none;
+    letter-spacing: 0.1rem;
+    font-size: 0.9rem;
+    transition: 0.3s ease;
+}
+
+#navbar a:hover {
+    color: #19ce96;
+}

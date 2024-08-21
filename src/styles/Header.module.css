@@ -1,0 +1,49 @@
+#header {
+    background-color: #171717;
+    padding-block: 2rem;
+    padding-inline: 3rem;
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+}
+
+#header .mainLogo {
+    cursor: pointer;
+}
+
+#header nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-grow: 1;
+    text-transform: uppercase;
+}
+
+#header button {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: #19ce96;
+    text-transform: capitalize;
+    letter-spacing: 0.1rem;
+    font-weight: bold;
+    position: relative;
+}
+
+#header button img {
+    width: 40px;
+    display: inline-block;
+    padding-block-start: 10px;
+}
+
+#header button span {
+    color: #ffffff;
+    background-color: #49c5b6;
+    letter-spacing: 0;
+    padding-inline: 8px;
+    padding-block-end: 1px;
+    border-radius: 10px;
+    font-size: 0.9rem;
+    position: absolute;
+    left: 20px;
+}

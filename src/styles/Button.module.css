@@ -1,0 +1,24 @@
+.textOnly {
+    border: none;
+    background-color: transparent;
+    margin-inline: 1rem;
+    color: #f2f2f2;
+    letter-spacing: 1px;
+}
+
+.button {
+    padding-inline: 1rem;
+    padding-block: 0.3rem;
+    border-radius: 6px;
+    border: none;
+    outline: none;
+    letter-spacing: 1px;
+    background-color: #63ffce;
+    color: #444444;
+    transition: 0.2s ease;
+}
+
+.button:hover {
+    background-color: #80ffd7;
+    color: #727272;
+}

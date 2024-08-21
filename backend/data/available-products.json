@@ -1,0 +1,142 @@
+[
+    {
+        "id": "p1",
+        "name": "Rolex",
+        "price": "99.99",
+        "description": "Elevate your style with Rolex's legendary designs, embodying sophistication and refinement.",
+        "image": "images/rolex.jpg"
+    },
+    {
+        "id": "p2",
+        "name": "Omega",
+        "price": "94.59",
+        "description": "Unleash timeless sophistication with Omega watches, where Swiss precision meets iconic design.",
+        "image": "images/omega.jpg"
+    },
+    {
+        "id": "p3",
+        "name": "Breitling",
+        "price": "91.99",
+        "description": "Elevate your style with Breitling's iconic designs, embodying the thrill of the skies for the modern adventurer.",
+        "image": "images/breitling.jpg"
+    },
+    {
+        "id": "p4",
+        "name": "Panerai",
+        "price": "79.99",
+        "description": "Explore the bold elegance of Panerai watches, where Italian design meets Swiss precision.",
+        "image": "images/panerai.jpg"
+    },
+    {
+        "id": "p5",
+        "name": "IWC",
+        "price": "89.99",
+        "description": "Experience the pinnacle of Swiss precision and engineering with IWC watches.",
+        "image": "images/iwc.jpg"
+    },
+    {
+        "id": "p6",
+        "name": "Cartier",
+        "price": "69.99",
+        "description": "Indulge in luxury with Cartier watches, where impeccable design meets timeless elegance.",
+        "image": "images/cartier.jpg"
+    },
+    {
+        "id": "p7",
+        "name": "Patek Philippe",
+        "price": "75.49",
+        "description": "Experience the epitome of luxury with Patek Philippe watches. Crafted with unparalleled precision.",
+        "image": "images/patek-philippe.jpg"
+    },
+    {
+        "id": "p8",
+        "name": "Audemars Piguet",
+        "price": "91.99",
+        "description": "Discover the pinnacle of horological excellence with Audemars Piguet watches.",
+        "image": "images/audemars-piguet.jpg"
+    },
+    {
+        "id": "p9",
+        "name": "Jaeger-LeCoultre",
+        "price": "57.99",
+        "description": "Experience the epitome of Swiss luxury with Jaeger-LeCoultre watches. Crafted with precision and passion.",
+        "image": "images/jaeger-leCoultre.jpg"
+    },
+    {
+        "id": "p10",
+        "name": "Tudor",
+        "price": "47.99",
+        "description": "Indulge in the heritage of Tudor watches, where classic craftsmanship meets modern innovation.",
+        "image": "images/tudor.jpg"
+    },
+    {
+        "id": "p11",
+        "name": "Longines",
+        "price": "77.99",
+        "description": "Embrace precision and style with the Longines watch, a fusion of Swiss heritage and contemporary flair.",
+        "image": "images/longines.jpg"
+    },
+    {
+        "id": "p12",
+        "name": "Tissot",
+        "price": "35.49",
+        "description": "Step into the world of Swiss precision with the Tissot watch, where modern design meets timeless craftsmanship.",
+        "image": "images/tissot.jpg"
+    },
+    {
+        "id": "p13",
+        "name": "Chronoswiss",
+        "price": "89.99",
+        "description": "Discover the allure of the Chronoswiss watch, where traditional Swiss meets modern innovation.",
+        "image": "images/chronoswiss.jpg"
+    },
+    {
+        "id": "p14",
+        "name": "Blancpain",
+        "price": "67.99",
+        "description": "Experience timeless elegance with the Blancpain watch, a symbol of Swiss horological excellence.",
+        "image": "images/blancpain.jpg"
+    },
+    {
+        "id": "p15",
+        "name": "Franc Muller",
+        "price": "75.49",
+        "description": "Embrace sophistication with the Franck Muller watch, a blend of innovative design and Swiss precision.",
+        "image": "images/franc-muller.jpg"
+    },
+    {
+        "id": "p16",
+        "name": "Girard Perregaux",
+        "price": "65.49",
+        "description": "Elevate your style with the Girard-Perregaux watch, a pinnacle of Swiss luxury.",
+        "image": "images/Girard-Perregaux.jpg"
+    },
+    {
+        "id": "p17",
+        "name": "Chopard",
+        "price": "79.99",
+        "description": "Elevate your style with the Chopard Classic, a masterpiece of Swiss craftsmanship.",
+        "image": "images/chopard.jpg"
+    },
+    {
+        "id": "p18",
+        "name": "Fastrack",
+        "price": "39.99",
+        "description": "Elevate your style with the Fastrack watch, a perfect blend of modern design and robust functionality.",
+        "image": "images/fastrack.jpg"
+    },
+    {
+        "id": "p19",
+        "name": "Titan",
+        "price": "35.49",
+        "description": "Discover the epitome of timeless elegance with Titan watches. Renowned for sophistication.",
+        "image": "images/titan.jpg"
+    },
+    {
+        "id": "p20",
+        "name": "Reebok",
+        "price": "29.99",
+        "description": "Elevate your style and performance with the Reebok watch collection. Designed for the modern.",
+        "image": "images/reebok.jpg"
+    }
+]

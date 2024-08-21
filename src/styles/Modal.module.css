@@ -1,0 +1,28 @@
+.modal {
+    background-color: #242726;
+    color: #f2f2f2;
+    border-radius: 6px;
+    border: none;
+    box-shadow: 0 2px 8px #171717a6;
+    padding: 1rem;
+    margin-inline: auto;
+    width: 80%;
+    max-width: 30rem;
+    animation: fade-slip-up 0.3s ease-out forwards;
+}
+
+.modal::backdrop {
+    background-color: rgba(0, 0, 0, 0.55);
+}
+
+@keyframes fade-slip-up {
+    from {
+        opacity: 0;
+        transform: translateY(11rem);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(9rem);
+    }
+}
